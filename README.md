@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Ben Liu, I live in Wuhan, China🇨🇳. My research focuses on Natural Language Processing.
+My name is Ben Liu, I live in Wuhan, China. My research focuses on Natural Language Processing.
 - 🔭 I’m currently a graduate student in the School of Computer Science at Wuhan University.
 - 🌱 I’m currently learning knwoledge graph embedding and GNN.
 - 📫 My personal blog is https://liuben.top, welcom to my blog.
